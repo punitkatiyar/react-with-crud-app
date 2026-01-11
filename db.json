@@ -1,0 +1,18 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@ducat.com",
+      "mobile": "9876543212",
+      "course": "html"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@ducat.com",
+      "mobile": "9876543233",
+      "course": "CSS"
+    }
+  ]
+}
